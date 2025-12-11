@@ -7,3 +7,4 @@ Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technolo
 Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
 
 Visit my portfolio website: [Abzalan.com](https://Abzalan.com)
+
