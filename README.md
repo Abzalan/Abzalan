@@ -1,4 +1,3 @@
-![GitHub Profile Views](https://gitviews.com/user/Abzalan.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/Abzalan/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
 
 **Full Stack Engineer** with **2+ years of hands-on experience**, who loves working on **Open source software for the web and mobile applications.**
 
@@ -8,3 +7,4 @@ Passionate about exploring new technologies and turning ideas into reality throu
 
 Visit my portfolio website: [Abzalan.com](https://Abzalan.com)
 
+![GitHub Profile Views](https://gitviews.com/user/Abzalan.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/Abzalan/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
