@@ -6,7 +6,7 @@ Skilled in **Next.js**, **React**, **TypeScript**, and modern front-end technolo
 
 Passionate about exploring new technologies and turning ideas into reality through polished, thoughtfully crafted personal projects.
 
-Visit my portfolio website: [Abzalan.com](https://Abzalan.com)
+Visit my portfolio website: [Abzalan.com](https://Abzalan.com/?utm_source=github&utm_medium=readme)
 
 ## Stats
 
@@ -15,3 +15,8 @@ Visit my portfolio website: [Abzalan.com](https://Abzalan.com)
 
 [![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Abzalan&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456#gh-dark-mode-only)](https://github.com/Abzalan/github-readme-stats#gh-dark-mode-only)
 [![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Abzalan&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456#gh-light-mode-only)](https://github.com/Abzalan/github-readme-stats#gh-light-mode-only)
+
+## Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Coming Soon...](https://abzalan.com/blog/)
+<!-- BLOG-POST-LIST:END -->
