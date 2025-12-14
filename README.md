@@ -10,8 +10,8 @@ Visit my portfolio website: [Abzalan.com](https://Abzalan.com)
 
 ## Stats
 
-[![abzalan-github-stats-dark](https://github-readme-stats.vercel.app/api?username=abzalan&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456&custom_title=Overview#gh-dark-mode-only)](https://github.com/abzalan/github-readme-stats#gh-dark-mode-only)
-[![abzalan-github-stats-light](https://github-readme-stats.vercel.app/api?username=abzalan&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456&custom_title=Overview#gh-light-mode-only)](https://github.com/abzalan/github-readme-stats#gh-light-mode-only)
+[![abzalan-github-stats-dark](https://github-readme-stats.vercel.app/api?username=Abzalan&show_icons=true&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456&custom_title=Overview#gh-dark-mode-only)](https://github.com/Abzalan/github-readme-stats#gh-dark-mode-only)
+[![abzalan-github-stats-light](https://github-readme-stats.vercel.app/api?username=Abzalan&show_icons=true&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456&custom_title=Overview#gh-light-mode-only)](https://github.com/Abzalan/github-readme-stats#gh-light-mode-only)
 
-[![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=abzalan&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456#gh-dark-mode-only)](https://github.com/abzalan/github-readme-stats#gh-dark-mode-only)
-[![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=abzalan&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456#gh-light-mode-only)](https://github.com/abzalan/github-readme-stats#gh-light-mode-only)
+[![top-langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Abzalan&layout=compact&hide_border=true&text_bold=false&theme=dark&bg_color=09090b&border_radius=12&card_width=456#gh-dark-mode-only)](https://github.com/Abzalan/github-readme-stats#gh-dark-mode-only)
+[![top-langs-light](https://github-readme-stats.vercel.app/api/top-langs/?username=Abzalan&layout=compact&hide_border=true&text_bold=false&theme=default&bg_color=fafafa&border_radius=12&card_width=456#gh-light-mode-only)](https://github.com/Abzalan/github-readme-stats#gh-light-mode-only)
